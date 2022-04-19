@@ -1,0 +1,12 @@
+<!--
+FILERT INFO:
+Deleted groups
+4k FILMS,Actie / Action,Amerika / USA / United States Others,Avontuur / Adventure,Bein Sports,Belgique (Wallonië),Belgische Radio,Comedy,Crime,DC Comics Films,Denemarken / Danish,Documentaire / Documentary,DOCUMENTAIRES,Drama,Duitsland / German,Duitsland / German KIDS,Duitsland / German MOVIES,Duitsland / German NEWS,Duitsland / German Regional Channels,Familie / Family,Fantasie / Fantasy,Films Nieuw / New Releases,Frans / French,Frans / French H265,Historisch / History,Horror,INTERNATIONALE SERIES,KERSTFILMS,Marvel Cinematic Universe 4K HDR,Marvel Films,MUZIEK KANALEN,MUZIEKCONCERTEN,Mysterie / Mystery,Nederlandse Radio,NL CABARET / COMEDY,NL GESPROKEN FILMS,NL GESPROKEN KINDERFILMS,NL GESPROKEN KINDERSERIES,NL GESPROKEN SERIES,NL KANALEN Terugkijken + Overig,
+
+Groups to keep (Custom CHannel Groups)
+MXGP Races,NL KANALEN,NL KIDS KANALEN,NL LOKALE KANALEN,NL SPORTKANALEN
+-->
+<customChannelGroups>
+  <channelGroupName>Nederland Radio</channelGroupName>
+  <channelGroupName>MUZIEK KANALEN</channelGroupName>
+</customChannelGroups>
