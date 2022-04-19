@@ -1,0 +1,38 @@
+<!--
+FILERT INFO:
+Deleted groups
+4k FILMS,Actie / Action,Amerika / USA / United States Others,Avontuur / Adventure,Bein Sports,Belgique (Wallonië),Belgische Radio,Comedy,Crime,DC Comics Films,Denemarken / Danish,Documentaire / Documentary,DOCUMENTAIRES,Drama,Duitsland / German,Duitsland / German KIDS,Duitsland / German MOVIES,Duitsland / German NEWS,Duitsland / German Regional Channels,Familie / Family,Fantasie / Fantasy,Films Nieuw / New Releases,Frans / French,Frans / French H265,Historisch / History,Horror,INTERNATIONALE SERIES,KERSTFILMS,Marvel Cinematic Universe 4K HDR,Marvel Films,MUZIEK KANALEN,MUZIEKCONCERTEN,Mysterie / Mystery,Nederlandse Radio,NL CABARET / COMEDY,NL GESPROKEN FILMS,NL GESPROKEN KINDERFILMS,NL GESPROKEN KINDERSERIES,NL GESPROKEN SERIES,NL KANALEN Terugkijken + Overig,
+
+Groups to keep (Custom CHannel Groups)
+MXGP Races,NL KANALEN,NL KIDS KANALEN,NL LOKALE KANALEN,NL SPORTKANALEN
+-->
+<customChannelGroups>
+  <channelGroupName>NL KANALEN</channelGroupName>
+  <channelGroupName>Viaplay</channelGroupName>
+  <channelGroupName>NL KIDS KANALEN</channelGroupName>
+  <channelGroupName>NL KIDS KANALEN</channelGroupName>
+  <channelGroupName>Amerika / USA / United States Main</channelGroupName>
+  <channelGroupName>INTERNATIONAL SPORTS CHANNELS</channelGroupName>
+  <channelGroupName>MUZIEK KANALEN</channelGroupName>
+  <channelGroupName>NL SPORTKANALEN</channelGroupName>
+  <channelGroupName>F1 TV Pro Streams</channelGroupName>
+  <channelGroupName>SPECIALS & EVENTS</channelGroupName>
+  <channelGroupName>INTERNATIONAL NEWS CHANNELS</channelGroupName>
+  <channelGroupName>INTERNATIONAL SPORTS CHANNELS</channelGroupName>
+  <channelGroupName>Belgie (Vlaams)</channelGroupName>
+  <channelGroupName>Belgium Sports</channelGroupName>
+  <channelGroupName>Engeland / Groot-Brittannie / United Kingdom</channelGroupName>
+  <channelGroupName>Duitsland / German SPORT</channelGroupName>
+  <channelGroupName>GAMEPASS NHL/NFL/NBA (LIVE)</channelGroupName>
+  <channelGroupName>F1 RACES</channelGroupName>
+  <channelGroupName>NL KANALEN Terugkijken + Overig</channelGroupName>
+  <channelGroupName>Films Nieuw / New Releases</channelGroupName>
+  <channelGroupName>NL HEVC H.265</channelGroupName>
+  <channelGroupName>NL LOKALE KANALEN</channelGroupName>
+  <channelGroupName>NL Webcam</channelGroupName>
+  <channelGroupName>Relax / Achtergrond Zenders</channelGroupName>
+  <channelGroupName>UFC: Ultimate Fighting Championship</channelGroupName>
+  <channelGroupName>Zuid Afrika / South Afrika</channelGroupName>
+  <channelGroupName>XXX FILMS</channelGroupName>
+  <channelGroupName>For Adults</channelGroupName>
+</customChannelGroups>
