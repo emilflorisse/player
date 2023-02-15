@@ -1,0 +1,85 @@
+<customChannelGroups>
+  <channelGroupName>NL KANALEN Terugkijken + Overig</channelGroupName>
+</customChannelGroups>
+
+<!--
+//IPTVTotaal filter (uitgeschakelde groepen, voor Kodi)
+	//Nederlands Live Extra
+  <channelGroupName>NL HEVC H.265</channelGroupName>
+  <channelGroupName>NL KANALEN</channelGroupName>
+  <channelGroupName>NL Viaplay</channelGroupName>
+  <channelGroupName>INTERNATIONAL SPORTS CHANNELS</channelGroupName>
+  <channelGroupName>NL SPORTKANALEN</channelGroupName>
+  <channelGroupName>Belgie (Vlaams)</channelGroupName>
+  <channelGroupName>Belgium Sports</channelGroupName>
+  <channelGroupName>NL LOKALE KANALEN</channelGroupName>
+  <channelGroupName>NL KANALEN Terugkijken + Overig</channelGroupName>
+  <channelGroupName>MUZIEK KANALEN</channelGroupName>
+  <channelGroupName>NL KIDS KANALEN</channelGroupName>  
+  <channelGroupName>F1 TV Pro Streams</channelGroupName>
+  <channelGroupName>INTERNATIONAL SPORTS CHANNELS</channelGroupName>
+  <channelGroupName>Films Nieuw / New Releases</channelGroupName>
+  <channelGroupName>F1 RACES</channelGroupName>
+		//Radio
+<channelGroupName>Nederlandse Radio</channelGroupName>
+
+	//Buitenlands Live
+<channelGroupName>Belgische Radio</channelGroupName>
+<channelGroupName>Belgique (Wallonië)</channelGroupName>
+<channelGroupName>Duitsland / German SPORT</channelGroupName>
+<channelGroupName>Amerika / USA / United States Main</channelGroupName>
+<channelGroupName>Frans / French</channelGroupName>
+<channelGroupName>Frans / French H265</channelGroupName>
+<channelGroupName>Duitsland / German Regional Channels</channelGroupName>
+<channelGroupName>Duitsland / German NEWS</channelGroupName>
+<channelGroupName>Duitsland / German MOVIES</channelGroupName>
+<channelGroupName>Duitsland / German KIDS</channelGroupName>
+<channelGroupName>Duitsland / German</channelGroupName>
+<channelGroupName>Denemarken / Danish</channelGroupName>
+<channelGroupName>Bein Sports</channelGroupName>
+<channelGroupName>Amerika / USA / United States Others</channelGroupName>
+<channelGroupName>Zuid Afrika / South Afrika</channelGroupName>
+
+	//Films
+<channelGroupName>Fantasie / Fantasy</channelGroupName>
+<channelGroupName>Familie / Family</channelGroupName>
+<channelGroupName>Drama</channelGroupName>
+<channelGroupName>DOCUMENTAIRES</channelGroupName>
+<channelGroupName>Documentaire / Documentary</channelGroupName>
+<channelGroupName>DC Comics Films</channelGroupName>
+<channelGroupName>Crime</channelGroupName>
+<channelGroupName>Comedy</channelGroupName>
+<channelGroupName>Avontuur / Adventure</channelGroupName>
+<channelGroupName>4k FILMS</channelGroupName>
+<channelGroupName>Actie / Action</channelGroupName>
+<channelGroupName>Historisch / History</channelGroupName>
+<channelGroupName>Horror</channelGroupName>
+<channelGroupName>KERSTFILMS</channelGroupName>
+<channelGroupName>Marvel Cinematic Universe 4K HDR</channelGroupName>
+<channelGroupName>Marvel Films</channelGroupName>
+<channelGroupName>MUZIEKCONCERTEN</channelGroupName>
+<channelGroupName>Mysterie / Mystery</channelGroupName>
+<channelGroupName>NL CABARET / COMEDY</channelGroupName>
+<channelGroupName>NL GESPROKEN FILMS</channelGroupName>
+<channelGroupName>NL GESPROKEN KINDERFILMS</channelGroupName>
+
+	//Series
+<channelGroupName>INTERNATIONALE SERIES</channelGroupName>
+<channelGroupName>NL GESPROKEN KINDERSERIES</channelGroupName>
+<channelGroupName>NL GESPROKEN SERIES</channelGroupName>
+
+	//Overig
+<channelGroupName>GAMEPASS NHL/NFL/NBA (LIVE)</channelGroupName>
+<channelGroupName>UFC: Ultimate Fighting Championship</channelGroupName>
+<channelGroupName>NL Webcam</channelGroupName>
+<channelGroupName>Relax / Achtergrond Zenders</channelGroupName>
+<channelGroupName>SPECIALS & EVENTS</channelGroupName>
+<channelGroupName>Engeland / Groot-Brittannie / United Kingdom</channelGroupName>
+
+	//Nieuws
+<channelGroupName>INTERNATIONAL NEWS CHANNELS</channelGroupName>
+
+	//Porno
+  <channelGroupName>XXX FILMS</channelGroupName>
+  <channelGroupName>For Adults</channelGroupName>
+-->
