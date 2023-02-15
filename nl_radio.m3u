@@ -1,31 +1,37 @@
 #EXTM3U
-#EXTINF:-1,tvg-name="NL: Qmusic TV" tvg-id="Qmusic.nl" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/Radio/.Light/QMusic.png" group-title="Radio streams" radio="true",QMusic
-https://stream.qmusic.nl/qmusic/mp3
-#EXTINF:-1,tvg-name="Studio Brussel" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/Radio/.Light/Studio%20Brussel.png" group-title="Radio streams" radio="true",Studio Brussel
-https://25503.live.streamtheworld.com/STUDIO_BRUSSEL_128.mp3
-#EXTINF:-1,tvg-name="NL: Radio 538" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/Radio/.Light/Radio%20538.png" group-title="Radio streams" radio="true",Radio 538
-http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3
-#EXTINF:-1,tvg-name="NL: Radio Veronica" tvg-id="RadioVeronica.nl" tvg-logo="https://github.com/Jasmeet181/mediaportal-de-logos/blob/master/Radio/.Light/Radio%20Veronica.png?raw=true" group-title="Radio streams" radio="true",Radio Veronica
+#EXTINF:-1,tvg-name="NL: Radio Veronica" tvg-id="RadioVeronica.nl" tvg-logo="https://github.com/hamakavula/player/blob/main/resources/Radio%20Veronica.png" group-title="Radio streams" radio="true",Radio Veronica
 http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3
-#EXTINF:-1,tvg-name="SLAM!" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/Radio/.Light/Slam.png" group-title="Radio streams" radio="true",Slam!
-https://stream.slam.nl/web10_mp3
-#EXTINF:-1,tvg-name="ARROW CLASSIC ROCK" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/Radio/.Light/Arrow%20Classic%20Rock.png" group-title="Radio streams" radio="true",Arrow Classic Rock
-https://stream.player.arrow.nl/arrow
-#EXTINF:-1,radio="true" tvg-name="Skyradio.nl" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/Radio/.Light/Sky%20Radio.png" group-title="Radio streams" radio="true",Sky Radio
-http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3
-#EXTINF:-1,radio="true" tvg-name="radionpo1.nl" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/NPO_Radio_1_logo_2014.svg/1200px-NPO_Radio_1_logo_2014.svg.png" group-title="Radio streams" radio="true",NPO Radio 1
+#EXTINF:-1,tvg-name="BE: Studio Brussel" tvg-id="" tvg-logo="https://github.com/hamakavula/player/blob/main/resources/Studio%20Brussel.png" group-title="Radio streams" radio="true",Studio Brussel
+https://25503.live.streamtheworld.com/STUDIO_BRUSSEL_128.mp3
+#EXTINF:-1,radio="true" tvg-name="radionpo1.nl" tvg-id="" tvg-logo="https://github.com/hamakavula/player/blob/main/resources/NPO%20Radio%201.png" group-title="Radio streams" radio="true",NPO Radio 1
 http://icecast.omroep.nl/radio1-bb-mp3
-#EXTINF:-1,radio="true" tvg-name="radionpo2.nl" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NPO_Radio_2_logo.svg/1200px-NPO_Radio_2_logo.svg.png" group-title="Radio streams" radio="true",NPO Radio 2
+#EXTINF:-1,radio="true" tvg-name="radionpo2.nl" tvg-id="" tvg-logo="https://github.com/hamakavula/player/blob/main/resources/NPO%20Radio%202.png" group-title="Radio streams" radio="true",NPO Radio 2
 http://icecast.omroep.nl/radio2-bb-mp3
-#EXTINF:-1,radio="true" tvg-name="radionpo2.nl" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Npo_3fm_logo.svg/1200px-Npo_3fm_logo.svg.png" group-title="Radio streams" radio="true",3FM
+#EXTINF:-1,radio="true" tvg-name="radionpo2.nl" tvg-id="" tvg-logo="https://github.com/hamakavula/player/blob/main/resources/NPO%203FM.png" group-title="Radio streams" radio="true",3FM
 http://icecast.omroep.nl/3fm-bb-mp3
-#EXTINF:-1,radio="true" tvg-name="radionpo2.nl" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/NPO_Radio_4_logo_2014.svg/1200px-NPO_Radio_4_logo_2014.svg.png" group-title="Radio streams" radio="true",NPO Radio 4
+#EXTINF:-1,radio="true" tvg-name="radionpo2.nl" tvg-id="" tvg-logo="https://github.com/hamakavula/player/blob/main/resources/NPO%20Radio%204.png" group-title="Radio streams" radio="true",NPO Radio 4
 http://icecast.omroep.nl/radio4-bb-mp3
-#EXTINF:-1,radio="true" tvg-name="radionpo2.nl" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NPO_Radio_5_logo_2016.svg/1280px-NPO_Radio_5_logo_2016.svg.png" group-title="Radio streams" radio="true",NPO Radio 5
+#EXTINF:-1,radio="true" tvg-name="radionpo2.nl" tvg-id="" tvg-logo="https://github.com/hamakavula/player/blob/main/resources/NPO%20Radio%205.png" group-title="Radio streams" radio="true",NPO Radio 5
 http://icecast.omroep.nl/radio5-bb-mp3
-#EXTINF:-1,radio="true" tvg-name="100procent.nl" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/Radio/.Light/100Procent%20NL.png" group-title="Radio streams" radio="true",100% NL
+#EXTINF:-1,tvg-name="NL: Qmusic TV" tvg-id="Qmusic.nl" tvg-logo="https://github.com/hamakavula/player/blob/main/resources/QMusic.png" group-title="Radio streams" radio="true",QMusic
+https://stream.qmusic.nl/qmusic/mp3
+#EXTINF:-1,tvg-name="NL: Radio 538" tvg-id="" tvg-logo="https://github.com/hamakavula/player/blob/main/resources/Radio%20538.png" group-title="Radio streams" radio="true",Radio 538
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3
+#EXTINF:-1,tvg-name="SLAM!" tvg-id="" tvg-logo="https://github.com/hamakavula/player/blob/main/resources/Slam.png" group-title="Radio streams" radio="true",Slam!
+https://stream.slam.nl/web10_mp3
+#EXTINF:-1,tvg-name="ARROW CLASSIC ROCK" tvg-id="" tvg-logo="https://github.com/hamakavula/player/blob/main/resources/Arrow%20Classic%20Rock.png" group-title="Radio streams" radio="true",Arrow Classic Rock
+https://stream.player.arrow.nl/arrow
+#EXTINF:-1,radio="true" tvg-name="Skyradio.nl" tvg-id="" tvg-logo="https://github.com/hamakavula/player/blob/main/resources/Sky%20Radio.png" group-title="Radio streams" radio="true",Sky Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3
+#EXTINF:-1,radio="true" tvg-name="100procent.nl" tvg-id="" tvg-logo="https://github.com/hamakavula/player/blob/main/resources/100Procent%20NL.png" group-title="Radio streams" radio="true",100% NL
 https://stream.100p.nl/100pctnl.mp3
-#EXTINF:-1,radio="true" tvg-name="arrow-caz.nl" tvg-id="" tvg-logo="http://arrowcaz.nl/wp/wp-content/uploads/2018/10/CAZ_logo_white_payoff.png" group-title="Radio streams" radio="true",Arrow Caz
+#EXTINF:-1,radio="true" tvg-name="arrow-caz.nl" tvg-id="" tvg-logo="https://github.com/hamakavula/player/blob/main/resources/CAZ.png" group-title="Radio streams" radio="true",Arrow Caz
 https://stream.arrowcaz.nl/caz128kmp3
-#EXTINF:-1,radio="true" tvg-name="arrow-classic-rock.nl" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/Radio/.Light/Arrow%20Classic%20Rock.png" group-title="Radio streams" radio="true",Arrow Caz
-https://stream.arrowcaz.nl/caz128kmp3
+#EXTINF:-1,radio="true" tvg-name="arrow-classic-rock.nl" tvg-id="" tvg-logo="https://github.com/hamakavula/player/blob/main/resources/Arrow%20Classic%20Rock.png" group-title="Radio streams" radio="true",Arrow Classic Rock
+https://stream.player.arrow.nl/arrow
+#EXTINF:-1,radio="true" tvg-name="radio10gold.nl" tvg-id="" tvg-logo="https://github.com/hamakavula/player/blob/main/resources/Radio%2010%20Gold.png" group-title="Radio streams" radio="true",Radio 10 Gold
+http://19993.live.streamtheworld.com/RADIO10.mp3
+#EXTINF:-1,radio="true" tvg-name="omroep-brabant.nl" tvg-id="" tvg-logo="https://github.com/hamakavula/player/blob/main/resources/Omroep%20Brabant.png" group-title="Radio streams" radio="true",Omroep Brabant
+http://av.omroepbrabant.nl/icecast/omroepbrabant/mp3
+#EXTINF:-1,tvg-name="Grand Prix Radio" tvg-id="" tvg-logo="https://github.com/hamakavula/player/blob/main/resources/GrandPrixRadio.png" group-title="Radio streams" radio="true",Grand Prix Radio F1
+https://19983.live.streamtheworld.com/GRAND_PRIX_RADIO.mp3
