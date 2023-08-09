@@ -2,7 +2,7 @@
 #EXTINF:-1,tvg-name="NL: Radio Veronica" tvg-id="RadioVeronica.nl" tvg-logo="https://raw.githubusercontent.com/hamakavula/player/main/resources/Radio%20Veronica.png" group-title="Radio streams" radio="true",Radio Veronica
 http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3
 #EXTINF:-1,tvg-name="BE: Studio Brussel" tvg-id="" tvg-logo="https://raw.githubusercontent.com/hamakavula/player/main/resources/Studio%20Brussel.png" group-title="Radio streams" radio="true",Studio Brussel
-https://25503.live.streamtheworld.com/STUDIO_BRUSSEL_128.mp3
+http://icecast.vrtcdn.be/stubru-high.mp3
 #EXTINF:-1,radio="true" tvg-name="radionpo1.nl" tvg-id="" tvg-logo="https://raw.githubusercontent.com/hamakavula/player/main/resources/NPO%20Radio%201.png" group-title="Radio streams" radio="true",NPO Radio 1
 http://icecast.omroep.nl/radio1-bb-mp3
 #EXTINF:-1,radio="true" tvg-name="radionpo2.nl" tvg-id="" tvg-logo="https://raw.githubusercontent.com/hamakavula/player/main/resources/NPO%20Radio%202.png" group-title="Radio streams" radio="true",NPO Radio 2
